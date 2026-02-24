@@ -1,0 +1,13 @@
+baseURL = 'https://vicensfayos.com/'
+languageCode = 'en-us'
+title = 'Vicens Fayos'
+theme = 'lean'
+
+[params]
+  author = 'Vicens Fayos'
+  description = 'Personal blog by Vicens Fayos'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

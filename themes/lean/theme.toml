@@ -1,0 +1,6 @@
+name = "Lean"
+description = "A clean, minimal theme focused on readability"
+min_version = "0.120.0"
+
+[author]
+  name = "Vicens Fayos"
