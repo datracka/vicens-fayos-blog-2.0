@@ -1,4 +1,4 @@
-baseURL = 'https://vicensfayos.com/'
+baseURL = 'https://blog.vicensfayos.com/'
 languageCode = 'en-us'
 title = 'Vicens Fayos'
 theme = 'lean'
