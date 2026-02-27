@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="post-list">
   <h1>{{ .Title }}</h1>
-  {{ range .Pages.ByDate.Reverse }}
+  {{ range sort .Pages "Params.createdAt" "desc" }}
   <article class="post-summary">
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
