@@ -66,7 +66,7 @@ This week I had my first on-call experience with this client, and it was a succe
 
 This was actually one of the criticisms I received when I was a young manager. My boss liked me—we still have a great relationship—and he was one of my mentors. I still use many of his practices daily. But he once told me I wasn’t resolutive, and he was right. When something technical needed to be solved, I relied on others. I tried to stay in the “manager lane”… young and naive.
 
-This week, around 9 pm, I got a message: the landing page was down. It was built before I joined. At the same time, I learned that the person responsible for it—let’s call him Mr. D—had passed away. Two days later, the page went down. Guess who they called? Yes, me.
+This week, around 9 pm, I got a message: the landing page was down. It was built before I joined. At the same time, I learned that the person responsible for it—let’s call him Mr. D—had been dismissed. Two days later, the page went down. Guess who they called? Yes, me.
 
 I didn’t know exactly where the website was hosted. I knew the codebase because I had pushed to centralize everything in GitHub, but hosting—no idea.
 
