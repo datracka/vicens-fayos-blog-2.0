@@ -12,7 +12,7 @@ excerpt: "A week of tough choices: reducing scope to meet Waad’s deadline, lea
 slug: journal-week-15
 title: Journal - Week 15
 ---
-# Journal - Week 13 
+# Journal - Week 15 
 	
 ## Intro
 
