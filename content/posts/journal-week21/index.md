@@ -84,7 +84,7 @@ And this is where we are now.
 After a lot of building — first creating the seed of the recommendation model, then building the application, the API, Cognito, security, discussing JWTs, and everything around it — I finally got my hands on this small UI running a fully conversational chat.
 
 
-![[backoffice-recommendator.png]]
+![[vicens-fayos-blog-2.0/content/posts/journal-week21/images/backoffice-recommendator.png]]
 
 I know, I know... it is still running locally. We still need to deploy it to the cloud so the business team can actually see it.
 
