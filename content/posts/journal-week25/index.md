@@ -1,9 +1,9 @@
 ---
 id: "1234"
 status: published
-createdAt: 2026-10-102T00:00:00+00:00
-firstPublishedAt: 2026-10-10T00:00:00+00:0
-publishedAt: 2026-10-10T00:00:00+00:00
+createdAt: 2026-10-02T00:00:00+00:00
+firstPublishedAt: 2026-10-02T00:00:00+00:00
+publishedAt: 2026-10-02T00:00:00+00:00
 updatedAt: 2026-10-02
 author_id: "1"
 cover_image: images/journal-week25.png
