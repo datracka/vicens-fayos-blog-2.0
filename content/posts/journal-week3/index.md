@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: images/journal-week3.jpg
 date: 2026-04-24
 excerpt: "This week brought something different from the usual client work: I delivered a workshop in Logroño on Agentic Architectures — how to build apps powered by agents — to around 30 people from the local IT community. I also navigated two other challenges: helping a talented ML-focused team member get unstuck on a RAG implementation by pairing him with a seasoned app developer, and pushing a client to replace their shared-passwords Excel file with a proper password manager (slow progress, but moving in the right direction)."
-slug: journal-week-3
-title: Journal - Week 3
+slug: "workshop-agentic-architectures-rag-shared-passwords"
+title: "A Workshop on Agentic Architectures, a Stuck RAG, and Shared Passwords"
+aliases:
+  - "/posts/journal-week-3/"
 ---
 
-## Journal - Week 3
+## A Workshop on Agentic Architectures, a Stuck RAG, and Shared Passwords
 
 ### Introduction
 

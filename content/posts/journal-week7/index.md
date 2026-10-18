@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week7.png
 date: 2026-05-22
 excerpt: "Choosing a cloud stack today is not only about technology — it is about trade-offs, scalability, and long-term flexibility. In this post, I explain the infrastructure decisions behind our platform: why we chose AWS over simpler PaaS alternatives, why we adopted CDK as our Infrastructure as Code solution, and how GitHub Actions fits into our CI/CD strategy. I also share the reasoning behind our serverless-first approach using ECS, Fargate, Lambda, RDS, and pgvector, plus one architectural doubt that still remains open: ECS vs EKS. If you are building modern cloud infrastructure and balancing simplicity, scalability, and maintainability, this may resonate with your own experience."
-slug: journal-week-7
-title: Journal - Week 7
+slug: "cloud-stack-aws-cdk-github-actions-serverless"
+title: "Our Cloud Stack: AWS, CDK, GitHub Actions and Serverless"
+aliases:
+  - "/posts/journal-week-7/"
 ---
-# Journal - Week 7
+# Our Cloud Stack: AWS, CDK, GitHub Actions and Serverless
 
 ## Intro
 

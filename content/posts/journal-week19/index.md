@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: images/journal-week19.png
 date: 2026-08-14
 excerpt: "This week: the human side of pushing an ERP transformation forward, dealing with resistance to change, and why friction can be a sign of progress. Plus, lessons from building an agentic app, where a small communication gap exposed an important architectural risk."
-slug: journal-week-19
-title: journal-week-19
+slug: "resistance-to-change-hidden-risk-agentic-app"
+title: "Resistance to Change and a Hidden Risk in Our Agentic App"
+aliases:
+  - "/posts/journal-week-19/"
 ---
 
-# Journal — Week 19
+# Resistance to Change and a Hidden Risk in Our Agentic App
 
 ## Intro
 

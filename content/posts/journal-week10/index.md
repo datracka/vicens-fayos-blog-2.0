@@ -16,10 +16,12 @@ excerpt: |-
   On the leadership side, I reflected on how technical discussions, best practices, and business priorities help resolve disagreements.
 
   Finally, a delayed integration project taught us an important lesson: sometimes simplifying the process is the fastest path forward.
-slug: journal-week-10
-title: Journal - Week 10
+slug: "busy-is-not-progress-spec-driven-development-leadership"
+title: "Busy Is Not Progress: Spec-Driven Development, Leadership and Simplifying"
+aliases:
+  - "/posts/journal-week-10/"
 ---
-# Journal - Week 10
+# Busy Is Not Progress: Spec-Driven Development, Leadership and Simplifying
 
 ## Intro
 

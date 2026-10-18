@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week14.png
 date: 2026-07-10
 excerpt: This week’s reflection is about flexibility, alignment, and evolution. Business direction can change, especially in startups, and IT must be ready to adapt without losing focus or momentum. As our Marketing AI tool evolves, we are shifting from a model-based recommendation engine toward an agent-based architecture, combining frontier models with our own curated RAG dataset to create a stronger competitive advantage. At the same time, the ERP integration project is back on track, with clear milestones, better rhythm, and positive progress after the first two weeks.
-slug: journal-week-14
-title: Journal - Week 14
+slug: "business-changes-direction-recommendation-model-to-agents"
+title: "When Business Changes Direction: From a Recommendation Model to Agents"
+aliases:
+  - "/posts/journal-week-14/"
 ---
-# Journal - Week 13
+# When Business Changes Direction: From a Recommendation Model to Agents
 	
 ## Intro
 

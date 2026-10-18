@@ -23,10 +23,12 @@ excerpt: |-
 
   Sometimes reducing scope is not failure.
   Sometimes it is exactly what gives a project a real chance to succeed.
-slug: journal-week-5
-title: Journal - Week 5
+slug: "emotional-side-of-scope-negotiation"
+title: "The Emotional Side of Scope Negotiation"
+aliases:
+  - "/posts/journal-week-5/"
 ---
-# Journal - Week 5
+# The Emotional Side of Scope Negotiation
 
 Intro
 

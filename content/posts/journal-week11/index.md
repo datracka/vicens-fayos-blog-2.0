@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week11.png
 date: 2026-06-19
 excerpt: "This week I share three topics that have been shaping my day-to-day work: using Infrastructure as Code to keep documentation synchronized with reality, experimenting with Spec-Driven Development and OpenSpec, and building an acceptance testing architecture to help a small team move faster. Different challenges, but all connected by the same goal: creating systems that scale knowledge, reduce friction, and allow teams to focus on delivering value instead of maintaining processes."
-slug: journal-week-11
-title: Journal - Week 11
+slug: "iac-as-documentation-spec-driven-development-acceptance-testing"
+title: "IaC as Documentation, Spec-Driven Development and Acceptance Testing"
+aliases:
+  - "/posts/journal-week-11/"
 ---
-# Journal - Week 11
+# IaC as Documentation, Spec-Driven Development and Acceptance Testing
 	
 	## Intro
 

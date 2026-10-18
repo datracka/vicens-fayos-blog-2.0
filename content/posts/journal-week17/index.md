@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week17.png
 date: 2026-07-31
 excerpt: "A tough but rewarding week: we paused our RAG work to focus on an agent-based recommendation engine, managed the team through another architectural change, and jumped into AWS Cognito—learning once again that AI moves faster when you know exactly where you want to go."
-slug: journal-week-17
-title: Journal - Week 17
+slug: "pausing-rag-managing-uncertainty-aws-cognito"
+title: "Pausing RAG, Managing Uncertainty, and Diving Into AWS Cognito"
+aliases:
+  - "/posts/journal-week-17/"
 ---
-# Journal — Week 17
+# Pausing RAG, Managing Uncertainty, and Diving Into AWS Cognito
 
 ## Intro
 

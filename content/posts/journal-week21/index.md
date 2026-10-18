@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: images/journal-week21.png
 date: 2026-08-22
 excerpt: "This week was mostly about enabling others to move fast: preparing infrastructure, access, APIs, deployment, and a secure Bedrock proxy for our Marketing partner. And after weeks of backend work, we finally reached a milestone: the first conversational UI of our recommendation product is working."
-slug: journal-21-onboarding-a-partner-and-time-to-celebrate
-title: Journal 21 - Onboarding A  Partner And Time To Celebrate
+slug: "onboarding-marketing-partner-first-conversational-ui"
+title: "Onboarding a Marketing Partner and Our First Conversational UI"
+aliases:
+  - "/posts/journal-21-onboarding-a-partner-and-time-to-celebrate/"
 ---
 
-# Journal 21 — Onboarding A  Partner And Time To Celebrate
+# Onboarding a Marketing Partner and Our First Conversational UI
 
 # Intro
 

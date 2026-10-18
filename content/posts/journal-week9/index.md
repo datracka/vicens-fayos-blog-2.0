@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week9.svg
 date: 2026-06-05
 excerpt: "This week I'm testing tools to keep projects in shape while building with coding agents. The problem: as code multiplies, you lose track of what was built and why. Spec-driven frameworks like OpenSpec fix this by persisting every step, not just the output. The interesting part is wiring it together—Linear, GitHub, and OpenSpec, with CLAUDE.md linking each ticket to its spec. We're still experimenting, and plenty of questions remain."
-slug: journal-week-9
-title: Journal - Week 9
+slug: "project-management-coding-agents-openspec-linear-github"
+title: "Project Management with Coding Agents: OpenSpec, Linear and GitHub"
+aliases:
+  - "/posts/journal-week-9/"
 ---
-# Journal - Week 9
+# Project Management with Coding Agents: OpenSpec, Linear and GitHub
 
 ## Intro
 

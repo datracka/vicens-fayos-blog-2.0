@@ -9,12 +9,14 @@ author_id: "1"
 cover_image: "images/journal-week2.png"
 date: "2026-04-18"
 excerpt: "A week focused on AI agentic architecture, Semantic Kernel, LangChain4j, RAGAS, and practical business challenges with Shopify and Meta. Reflections on where software engineering fits in the new AI era."
-slug: "journal-week-2"
-title: "Journal - Week 2"
+slug: "agentic-architecture-semantic-kernel-langchain4j-ragas"
+title: "Agentic Architecture: Semantic Kernel, LangChain4j and RAGAS"
+aliases:
+  - "/posts/journal-week-2/"
 
 ---
 
-# Journal - Week 2
+# Agentic Architecture: Semantic Kernel, LangChain4j and RAGAS
 
 ## Introduction
 

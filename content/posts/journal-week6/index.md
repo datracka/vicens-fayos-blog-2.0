@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week6.png
 date: 2026-05-17
 excerpt: "As an IT company, or anyone building a product using agentic coding, you want to keep risk as close to 0 as possible. The product should not fail, it should be trustworthy, and at the same time it should be built as fast as possible. The same tradeoff we study in portfolio management appears here as well: lower risk usually means lower profitability, while higher profitability comes with higher risk. And I really think this framework fits the agentic coding discussion surprisingly well."
-slug: journal-week-6
-title: Journal - Week 6
+slug: "agentic-coding-risk-and-return"
+title: "Agentic Coding Through the Lens of Risk and Return"
+aliases:
+  - "/posts/journal-week-6/"
 ---
-# Journal - Week 6
+# Agentic Coding Through the Lens of Risk and Return
 
 ## Intro
 

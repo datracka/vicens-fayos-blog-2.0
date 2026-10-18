@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week15.png
 date: 2026-07-19
 excerpt: "A week of tough choices: reducing scope to meet Waad’s deadline, learning how Meta, Google Ads, and LinkedIn manage advertising at scale, and facing the limits of billing and account structures. Meanwhile, an Odoo–Shopify integration reminds me that friction is often a sign that change is finally becoming real."
-slug: journal-week-15
-title: Journal - Week 15
+slug: "scope-calls-ad-platforms-at-scale-erp-friction"
+title: "Tough Scope Calls, Ad Platforms at Scale, and ERP Friction"
+aliases:
+  - "/posts/journal-week-15/"
 ---
-# Journal - Week 15 
+# Tough Scope Calls, Ad Platforms at Scale, and ERP Friction
 	
 ## Intro
 

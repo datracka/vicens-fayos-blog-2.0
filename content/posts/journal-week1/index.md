@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: "images/journal-week1.png"
 date: "2026-04-09"
 excerpt: "A reflection on the first week of building an AI-driven retail product: from shaping a lean team and defining the first `showable` version, to letting go of control and embracing uncertainty in early-stage development"
-slug: "journal-week-1"
-title: "Journal - Week 1"
+slug: "lean-processes-disposable-code-letting-go-of-control"
+title: "Lean Processes, Disposable Code, and Letting Go of Control"
+aliases:
+  - "/posts/journal-week-1/"
 ---
 
-# Journal - Week 1
+# Lean Processes, Disposable Code, and Letting Go of Control
 
 ## Introduction
 

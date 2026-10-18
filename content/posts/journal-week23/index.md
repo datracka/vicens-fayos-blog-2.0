@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: images/journal-week23.png
 date: 2026-09-06
 excerpt: "This week, integration surprises exposed a gap between our AI recommendations and real ad activation. I also explore the coupling between semantic prompts and deterministic code—and the testing challenges it creates. Finally, after 25 years across development, management and startups, I ask myself: what do I do?"
-slug: journal-23-integration-surprises-ai-semantics-and-the-question-of-who-i-am
-title: Journal 23 — Integration Surprises, AI Semantics, and the Question of Who I Am
+slug: "integration-surprises-ai-semantics-who-i-am"
+title: "Integration Surprises, AI Semantics, and the Question of Who I Am"
+aliases:
+  - "/posts/journal-23-integration-surprises-ai-semantics-and-the-question-of-who-i-am/"
 ---
 
-# Journal 23 — Integration Surprises, AI Semantics, and the Question of Who I Am
+# Integration Surprises, AI Semantics, and the Question of Who I Am
 
 # Intro
 

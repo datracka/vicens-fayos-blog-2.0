@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week12.png
 date: 2026-06-26
 excerpt: "This week I reflect on two lessons: why I chose a modular monolith over microservices for an early-stage product after listening to my team, and why perseverance matters when projects don't go as planned. Architecture and leadership often have one thing in common: knowing when to change your mind."
-slug: journal-week-12
-title: Journal - Week 12
+slug: "microservices-to-modular-monolith-perseverance"
+title: "From Microservices to a Modular Monolith, and Why Perseverance Matters"
+aliases:
+  - "/posts/journal-week-12/"
 ---
-# Journal - Week 12
+# From Microservices to a Modular Monolith, and Why Perseverance Matters
 	
 ## Intro
 

@@ -14,10 +14,12 @@ excerpt: |-
   I also explain why I prefer adding constraints instead of policing teams, and how I use sub-milestones to keep AI projects on track without relying blindly on Agile ceremonies.
 
   A few practical lessons on organization, leadership, and project delivery from the trenches of IT.
-slug: journal-week-8
-title: Journal - Week 8
+slug: "lost-meta-accounts-constraints-sub-milestones"
+title: "Lost Meta Accounts, Constraints Over Rules, and Milestones Under Milestones"
+aliases:
+  - "/posts/journal-week-8/"
 ---
-# Journal - Week 8
+# Lost Meta Accounts, Constraints Over Rules, and Milestones Under Milestones
 
 ## Intro
 

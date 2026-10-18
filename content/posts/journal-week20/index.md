@@ -9,11 +9,13 @@ author_id: "1"
 cover_image: images/journal-week20.png
 date: 2026-08-22
 excerpt: "This week: why WordPress can still be the right choice despite more modern alternatives, and how I evaluated adding Vaadin Hilla to our Java stack. Two different decisions with the same lesson: the best technology is not always the newest one, but the one that fits the context best."
-slug: journal-20-wordpress-rules-and-new-tech-to-stack
-title: Journal 20 - WordPress Still Rules, Adding a New Technology to the Stack
+slug: "wordpress-still-rules-vaadin-hilla-java-stack"
+title: "WordPress Still Rules, and Adding Vaadin Hilla to Our Java Stack"
+aliases:
+  - "/posts/journal-20-wordpress-rules-and-new-tech-to-stack/"
 ---
 
-# Journal 20 — WordPress Still Rules, Adding a New Technology to the Stack
+# WordPress Still Rules, and Adding Vaadin Hilla to Our Java Stack
 
 ## Intro
 

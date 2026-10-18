@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week4.png
 date: 2026-04-30
 excerpt: "Another week building AI products made one thing clear: SaaS alone is not enough—data is the real differentiator. While interfaces and LLM features are easy to replicate, unique data is not. Building it is harder, less visible, but ultimately what creates lasting value."
-slug: journal-week-4
-title: Journal - Week 4
+slug: "everybody-is-building-a-saas-build-data-instead"
+title: "Everybody Is Building a SaaS. Build Data Instead"
+aliases:
+  - "/posts/journal-week-4/"
 ---
-# Journal - Week 4
+# Everybody Is Building a SaaS. Build Data Instead
 
 ## Intro
 

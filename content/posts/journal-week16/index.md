@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week16.png
 date: 2026-07-24
 excerpt: This week I explore the realities of being a hands-on CTO, why we moved our recommendation agent closer to Anthropic’s capabilities, and what building production-grade software with AI taught me about focus, control, and developer quality.
-slug: journal-week-16
-title: Journal - Week 16
+slug: "hands-on-cto-betting-on-anthropic-messages-api"
+title: "Being a Hands-On CTO and Betting on Anthropic's Messages API"
+aliases:
+  - "/posts/journal-week-16/"
 ---
-# Journal — Week 16
+# Being a Hands-On CTO and Betting on Anthropic's Messages API
 
 ## Intro
 

@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week13.png
 date: 2026-07-05
 excerpt: This week was all about difficult trade-offs. We reduced the MVP scope to meet an ambitious September deadline while keeping the architecture ready for future growth. We also settled on a modular monolith supported by external services, reinforced our cross-functional team approach, and I committed to turning around a struggling project. Sometimes progress isn't about flashy milestones—it's about making the right decisions that quietly set the foundation for long-term success.
-slug: journal-week-13
-title: Journal - Week 13
+slug: "cutting-mvp-scope-without-cutting-the-foundations"
+title: "Cutting MVP Scope Without Cutting the Foundations"
+aliases:
+  - "/posts/journal-week-13/"
 ---
-# Journal - Week 13
+# Cutting MVP Scope Without Cutting the Foundations
 	
 ## Intro
 

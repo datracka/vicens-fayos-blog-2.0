@@ -9,10 +9,12 @@ author_id: "1"
 cover_image: images/journal-week18.png
 date: 2026-08-08
 excerpt: Agent engineering is becoming part of every developer’s job. From MCP and agentic frameworks to harnesses and deterministic loops, I share why agents are moving from an AI specialty into everyday software engineering—and an update on our AI recommender.
-slug: journal-week-18
-title: journal-week-18
+slug: "everybody-will-be-an-agent-engineer"
+title: "Everybody Will Be an Agent Engineer"
+aliases:
+  - "/posts/journal-week-18/"
 ---
-# Journal — Week 18
+# Everybody Will Be an Agent Engineer
 
 ## Intro
 
